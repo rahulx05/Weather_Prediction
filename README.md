@@ -21,7 +21,7 @@
 
 <h2 id="overview">Project Overview</h2>
 
-<p>This project involves the implementation of a machine learning algorithm on Arduino hardware to predict weather conditions in real-time. The goal is to leverage the power of embedded systems for practical ML applications in weather forecasting.</p>
+<p>This project involves the implementation of a machine learning algorithm on Arduino hardware to predict weather conditions in real-time. The goal is to leverage the power of embedded systems for practical Machine Learning applications in weather forecasting.</p>
 
 <h2 id="features">🧐 Features</h2>
 
