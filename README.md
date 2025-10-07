@@ -106,7 +106,6 @@ jupyter notebook
 <img src="https://github.com/user-attachments/assets/97d4243c-aeea-4134-a99e-e7ac53de4ca7" alt="Output">
 
 <h2>Contact</h2>
+gajjarkavish10@gmail.com
 rbpanchal511@gmail.com
 
-
-Project Link: https://github.com/rahulx05/Weather_Prediction
